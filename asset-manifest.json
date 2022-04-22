@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39e3b0d1.css",
+    "main.js": "/static/js/main.b81e83cf.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/yeezy700.jpg": "/static/media/yeezy700.3f81655b0181ca058708.jpg",
+    "index.html": "/index.html",
+    "main.39e3b0d1.css.map": "/static/css/main.39e3b0d1.css.map",
+    "main.b81e83cf.js.map": "/static/js/main.b81e83cf.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e3b0d1.css",
+    "static/js/main.b81e83cf.js"
+  ]
+}
